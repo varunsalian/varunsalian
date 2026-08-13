@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Terminal session: varun salian, backend systems and cross-platform apps. Seven years across LegalZoom, Opendoor, Jio Platforms and Oracle. Ships debrify — 433 stars, 43,087 downloads — and stremio-addon-importer.">
+  <defs>
+    <clipPath id="b1"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.45s" begin="0.30s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b2"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.55s" begin="0.87s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b3"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.55s" begin="1.54s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b4"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.45s" begin="2.21s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b5"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.55s" begin="2.78s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b6"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.55s" begin="3.45s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b7"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.45s" begin="4.12s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b8"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.55s" begin="4.69s" fill="freeze"/></rect></clipPath>
+    <clipPath id="b9"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="400" dur="0.55s" begin="5.36s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect width="400" height="300" rx="9" fill="#0A0C10"/>
+  <rect width="400" height="34" rx="9" fill="#161B22"/>
+  <rect y="26" width="400" height="8" fill="#161B22"/>
+  <line x1="0" y1="34" x2="400" y2="34" stroke="#21262D" stroke-width="1"/>
+  <circle cx="20" cy="17" r="5" fill="#FF5F57"/>
+  <circle cx="38" cy="17" r="5" fill="#FEBC2E"/>
+  <circle cx="56" cy="17" r="5" fill="#28C840"/>
+  <text x="200" y="21" text-anchor="middle" font-family="Menlo,Monaco,Consolas,'Courier New',monospace" font-size="11" fill="#6E7681">varunsalian — zsh</text>
+  <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace" font-size="12.5">
+    <g clip-path="url(#b1)"><text x="16" y="60"><tspan fill="#9A95FF">❯</tspan><tspan fill="#E6EDF3" dx="9">whoami</tspan></text></g>
+    <g clip-path="url(#b2)"><text x="16" y="84"><tspan fill="#8B949E">varun salian</tspan></text></g>
+    <g clip-path="url(#b3)"><text x="16" y="118"><tspan fill="#9A95FF">❯</tspan><tspan fill="#E6EDF3" dx="9">cat role</tspan></text></g>
+    <g clip-path="url(#b4)"><text x="16" y="142"><tspan fill="#8B949E">backend systems · cross-platform apps</tspan></text></g>
+    <g clip-path="url(#b5)"><text x="16" y="164"><tspan fill="#6E7681">7 yrs · legalzoom, opendoor, jio, oracle</tspan></text></g>
+    <g clip-path="url(#b6)"><text x="16" y="198"><tspan fill="#9A95FF">❯</tspan><tspan fill="#E6EDF3" dx="9">ls ~/ships</tspan></text></g>
+    <g clip-path="url(#b7)"><text x="16" y="222"><tspan fill="#4493F8">debrify/</tspan><tspan fill="#F0B72F" dx="12">433★</tspan><tspan fill="#8B949E" dx="12">43,087 downloads</tspan></text></g>
+    <g clip-path="url(#b8)"><text x="16" y="244"><tspan fill="#4493F8">stremio-addon-importer/</tspan><tspan fill="#F0B72F" dx="12">6★</tspan></text></g>
+    <g clip-path="url(#b9)"><text x="16" y="278"><tspan fill="#9A95FF">❯</tspan></text></g>
+    <rect x="32" y="267" width="8" height="14" fill="#E6EDF3" opacity="0">
+      <set attributeName="opacity" to="1" begin="6.13s"/>
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.06s" begin="6.13s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

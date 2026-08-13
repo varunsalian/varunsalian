@@ -1,4 +1,6 @@
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 520px)" srcset="assets/boot-dark-sm.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 520px)" srcset="assets/boot-light-sm.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/boot-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/boot-light.svg">
   <img alt="varun salian — backend systems, cross-platform apps" src="assets/boot-dark.svg" width="100%">
