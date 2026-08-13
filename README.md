@@ -1,6 +1,6 @@
 # Varun Salian
 
-**Backend engineer · Bengaluru, India**
+**Backend systems · cross-platform apps · Bengaluru, India**
 
 Seven years building backend systems that need to stay up — user services at 99.99%, event-driven pipelines, compliance plumbing across thirty-odd microservices. Java, Go, Kafka, Kubernetes.
 
