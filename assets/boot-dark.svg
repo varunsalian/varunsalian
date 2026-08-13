@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 392" width="1000" height="392" role="img" aria-label="Terminal session: varun salian, backend systems and cross-platform apps, Bengaluru. Seven years across LegalZoom, Opendoor, Jio Platforms and Oracle. Ships debrify and stremio-addon-importer.">
+  <title>varunsalian — zsh</title>
+  <defs>
+    <!-- One wipe per line. A clip rect growing left-to-right is a real typewriter
+         reveal; opacity fades would read as a slideshow. fill="freeze" holds the
+         final state, so anyone arriving after the animation still sees full text. -->
+    <clipPath id="w1"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.55s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w2"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.60s" begin="1.00s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w3"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.50s" begin="1.75s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w4"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.60s" begin="2.40s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w5"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.55s" begin="2.95s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w6"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.50s" begin="3.65s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w7"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.60s" begin="4.25s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w8"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.55s" begin="4.85s" fill="freeze"/></rect></clipPath>
+    <clipPath id="w9"><rect x="0" y="0" width="0" height="392"><animate attributeName="width" from="0" to="1000" dur="0.30s" begin="5.50s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1000" height="392" rx="10" fill="#0A0C10"/>
+  <rect width="1000" height="42" rx="10" fill="#161B22"/>
+  <rect y="32" width="1000" height="10" fill="#161B22"/>
+  <line x1="0" y1="42" x2="1000" y2="42" stroke="#21262D" stroke-width="1"/>
+  <circle cx="28" cy="21" r="6" fill="#FF5F57"/>
+  <circle cx="50" cy="21" r="6" fill="#FEBC2E"/>
+  <circle cx="72" cy="21" r="6" fill="#28C840"/>
+  <text x="500" y="26" text-anchor="middle" font-family="Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="12.5" fill="#6E7681">varunsalian — zsh</text>
+
+  <g font-family="Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="15">
+    <g clip-path="url(#w1)"><text x="30" y="88"><tspan fill="#9A95FF">❯</tspan><tspan fill="#6E7681" dx="12">~</tspan><tspan fill="#E6EDF3" dx="14">whoami</tspan></text></g>
+    <g clip-path="url(#w2)"><text x="30" y="116" fill="#8B949E">varun salian · bengaluru, india</text></g>
+
+    <g clip-path="url(#w3)"><text x="30" y="158"><tspan fill="#9A95FF">❯</tspan><tspan fill="#6E7681" dx="12">~</tspan><tspan fill="#E6EDF3" dx="14">cat role</tspan></text></g>
+    <g clip-path="url(#w4)"><text x="30" y="186" fill="#8B949E">backend systems <tspan fill="#3A3F47">·</tspan> cross-platform apps</text></g>
+    <g clip-path="url(#w5)"><text x="30" y="210" fill="#6E7681">7 yrs <tspan fill="#3A3F47">·</tspan> legalzoom, opendoor, jio platforms, oracle</text></g>
+
+    <g clip-path="url(#w6)"><text x="30" y="252"><tspan fill="#9A95FF">❯</tspan><tspan fill="#6E7681" dx="12">~</tspan><tspan fill="#E6EDF3" dx="14">ls ~/ships</tspan></text></g>
+    <g clip-path="url(#w7)"><text x="30" y="280"><tspan fill="#4493F8">debrify/</tspan><tspan fill="#F0B72F" dx="22">433★</tspan><tspan fill="#8B949E" dx="18">43,087 downloads</tspan><tspan fill="#3A3F47" dx="16">·</tspan><tspan fill="#8B949E" dx="16">6 platforms</tspan></text></g>
+    <g clip-path="url(#w8)"><text x="30" y="304"><tspan fill="#4493F8">stremio-addon-importer/</tspan><tspan fill="#F0B72F" dx="22">6★</tspan><tspan fill="#8B949E" dx="18">browser extension</tspan></text></g>
+
+    <g clip-path="url(#w9)"><text x="30" y="346"><tspan fill="#9A95FF">❯</tspan><tspan fill="#6E7681" dx="12">~</tspan></text></g>
+    <rect x="66" y="333" width="9" height="17" fill="#E6EDF3" opacity="0">
+      <set attributeName="opacity" to="1" begin="5.7s"/>
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.06s" begin="5.7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
