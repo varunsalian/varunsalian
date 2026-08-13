@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" width="400" height="40" role="img" aria-label="Section: Debrify">
+  <text x="16" y="24" font-family="Menlo,Monaco,Consolas,'Courier New',monospace" font-size="14">
+    <tspan fill="#5B54F0">❯</tspan><tspan fill="#111418" dx="9">cat</tspan><tspan fill="#1A7F37" dx="7">debrify.md</tspan>
+  </text>
+  <line x1="16" y1="34" x2="384" y2="34" stroke="#D8DDE4" stroke-width="1"/>
+</svg>

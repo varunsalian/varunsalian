@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 364" width="400" height="364" role="img" aria-label="Career timeline, most recent first: LegalZoom SDE 3 2025 to 2026, Opendoor SDE 2 2024 to 2025, Jio Platforms SDE 2 2022 to 2023, Oracle SDE 2 2021 to 2022, Happiest Minds 2019 to 2021. Debrify built alongside since August 2025.">
+  <rect x="0.5" y="0.5" width="399" height="363" rx="10" fill="#F6F8FA" stroke="#D8DDE4"/>
+  <line x1="30" y1="96" x2="30" y2="320" stroke="#D0D7DE" stroke-width="2"/>
+  <line x1="30" y1="40" x2="30" y2="96" stroke="#1A7F37" stroke-width="2.5" stroke-linecap="round"/>
+  <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace">
+        <circle cx="30" cy="40" r="5.5" fill="#1A7F37"/><text x="52" y="44" font-size="13" fill="#1A7F37">debrify</text><text x="52" y="60" font-size="10.5" fill="#3F4650">2,085 commits, alongside the day job</text><text x="384" y="44" font-size="10.5" fill="#6B727C" text-anchor="end">Aug 2025 –</text>
+    <circle cx="30" cy="96" r="5.5" fill="#5B54F0"/><text x="52" y="100" font-size="13" fill="#111418">LegalZoom</text><text x="52" y="116" font-size="10.5" fill="#3F4650">SDE 3</text><text x="384" y="100" font-size="10.5" fill="#6B727C" text-anchor="end">2025 – 2026</text>
+    <circle cx="30" cy="152" r="5.5" fill="#5B54F0"/><text x="52" y="156" font-size="13" fill="#111418">Opendoor</text><text x="52" y="172" font-size="10.5" fill="#3F4650">SDE 2</text><text x="384" y="156" font-size="10.5" fill="#6B727C" text-anchor="end">2024 – 2025</text>
+    <circle cx="30" cy="208" r="5.5" fill="#5B54F0"/><text x="52" y="212" font-size="13" fill="#111418">Jio Platforms</text><text x="52" y="228" font-size="10.5" fill="#3F4650">SDE 2</text><text x="384" y="212" font-size="10.5" fill="#6B727C" text-anchor="end">2022 – 2023</text>
+    <circle cx="30" cy="264" r="5.5" fill="#5B54F0"/><text x="52" y="268" font-size="13" fill="#111418">Oracle</text><text x="52" y="284" font-size="10.5" fill="#3F4650">SDE 2</text><text x="384" y="268" font-size="10.5" fill="#6B727C" text-anchor="end">2021 – 2022</text>
+    <circle cx="30" cy="320" r="5.5" fill="#5B54F0"/><text x="52" y="324" font-size="13" fill="#111418">Happiest Minds</text><text x="52" y="340" font-size="10.5" fill="#3F4650">SE → Senior</text><text x="384" y="324" font-size="10.5" fill="#6B727C" text-anchor="end">2019 – 2021</text>
+  </g>
+</svg>

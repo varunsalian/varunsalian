@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" width="400" height="40" role="img" aria-label="Section: Toolkit">
+  <text x="16" y="24" font-family="Menlo,Monaco,Consolas,'Courier New',monospace" font-size="14">
+    <tspan fill="#9A95FF">❯</tspan><tspan fill="#E6EDF3" dx="9">stack</tspan><tspan fill="#79C0FF" dx="7">--list</tspan>
+  </text>
+  <line x1="16" y1="34" x2="384" y2="34" stroke="#21262D" stroke-width="1"/>
+</svg>
