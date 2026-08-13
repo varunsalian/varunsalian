@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 196" width="1000" height="196" role="img" aria-label="Toolkit. Languages: Java, Go, Dart, Kotlin, Python, JavaScript. Backend: Spring Boot, Kafka, gRPC, Protocol Buffers, Redis. Infrastructure: Kubernetes, Docker, AWS EKS, GCP GKE. Data and client: PostgreSQL, MySQL, Oracle, Flutter, Media3 ExoPlayer.">
+  <rect x="0.5" y="0.5" width="999" height="195" rx="10" fill="#0F141B" stroke="#21262D"/>
+  <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace" font-size="12">
+    <g fill="#6E7681" font-size="11">
+        <text x="26" y="42">LANGUAGES</text>
+    <text x="26" y="80">BACKEND</text>
+    <text x="26" y="118">INFRA</text>
+    <text x="26" y="156">DATA · CLIENT</text>
+    </g>
+        <g><rect x="150" y="26" width="53" height="23" rx="11.5" fill="#1B2430" stroke="#2D3A4D"/><text x="163" y="42" fill="#E6EDF3">Java</text>
+    <rect x="211" y="26" width="39" height="23" rx="11.5" fill="#1B2430" stroke="#2D3A4D"/><text x="224" y="42" fill="#E6EDF3">Go</text>
+    <rect x="258" y="26" width="53" height="23" rx="11.5" fill="#1B2430" stroke="#2D3A4D"/><text x="271" y="42" fill="#E6EDF3">Dart</text>
+    <rect x="319" y="26" width="67" height="23" rx="11.5" fill="#1B2430" stroke="#2D3A4D"/><text x="332" y="42" fill="#E6EDF3">Kotlin</text>
+    <rect x="394" y="26" width="67" height="23" rx="11.5" fill="#1B2430" stroke="#2D3A4D"/><text x="407" y="42" fill="#E6EDF3">Python</text>
+    <rect x="469" y="26" width="95" height="23" rx="11.5" fill="#1B2430" stroke="#2D3A4D"/><text x="482" y="42" fill="#E6EDF3">JavaScript</text></g>
+    <g><rect x="150" y="64" width="101" height="23" rx="11.5" fill="#171633" stroke="#2E2A5E"/><text x="163" y="80" fill="#9A95FF">Spring Boot</text>
+    <rect x="259" y="64" width="60" height="23" rx="11.5" fill="#171633" stroke="#2E2A5E"/><text x="272" y="80" fill="#9A95FF">Kafka</text>
+    <rect x="327" y="64" width="53" height="23" rx="11.5" fill="#171633" stroke="#2E2A5E"/><text x="340" y="80" fill="#9A95FF">gRPC</text>
+    <rect x="388" y="64" width="136" height="23" rx="11.5" fill="#171633" stroke="#2E2A5E"/><text x="401" y="80" fill="#9A95FF">Protocol Buffers</text>
+    <rect x="532" y="64" width="60" height="23" rx="11.5" fill="#171633" stroke="#2E2A5E"/><text x="545" y="80" fill="#9A95FF">Redis</text></g>
+    <g><rect x="150" y="102" width="95" height="23" rx="11.5" fill="#10202E" stroke="#1F3A52"/><text x="163" y="118" fill="#79C0FF">Kubernetes</text>
+    <rect x="253" y="102" width="67" height="23" rx="11.5" fill="#10202E" stroke="#1F3A52"/><text x="266" y="118" fill="#79C0FF">Docker</text>
+    <rect x="328" y="102" width="88" height="23" rx="11.5" fill="#10202E" stroke="#1F3A52"/><text x="341" y="118" fill="#79C0FF">AWS (EKS)</text>
+    <rect x="424" y="102" width="88" height="23" rx="11.5" fill="#10202E" stroke="#1F3A52"/><text x="437" y="118" fill="#79C0FF">GCP (GKE)</text></g>
+    <g><rect x="150" y="140" width="95" height="23" rx="11.5" fill="#0F2318" stroke="#1F462F"/><text x="163" y="156" fill="#7EE787">PostgreSQL</text>
+    <rect x="253" y="140" width="60" height="23" rx="11.5" fill="#0F2318" stroke="#1F462F"/><text x="266" y="156" fill="#7EE787">MySQL</text>
+    <rect x="321" y="140" width="67" height="23" rx="11.5" fill="#0F2318" stroke="#1F462F"/><text x="334" y="156" fill="#7EE787">Oracle</text>
+    <rect x="396" y="140" width="74" height="23" rx="11.5" fill="#0F2318" stroke="#1F462F"/><text x="409" y="156" fill="#7EE787">Flutter</text>
+    <rect x="478" y="140" width="150" height="23" rx="11.5" fill="#0F2318" stroke="#1F462F"/><text x="491" y="156" fill="#7EE787">Media3 / ExoPlayer</text></g>
+  </g>
+</svg>

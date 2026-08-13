@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 48" width="1000" height="48" role="img" aria-label="Section: Where I have worked">
+  <text x="2" y="30" font-family="Menlo,Monaco,Consolas,'Courier New',monospace" font-size="17">
+    <tspan fill="#5B54F0">❯</tspan><tspan fill="#6B727C" dx="12">~</tspan><tspan fill="#111418" dx="14">git log</tspan><tspan fill="#0A5FCC" dx="10">--author=varun</tspan>
+  </text>
+  <line x1="0" y1="42" x2="1000" y2="42" stroke="#D8DDE4" stroke-width="1"/>
+</svg>
