@@ -30,7 +30,7 @@ Then I go home and write Flutter.
 
 It started as a way to stop juggling four debrid dashboards. It's since grown a website, a subreddit and a Discord full of people who care about the details — which has been the best part by a distance.
 
-**[Website](https://varunsalian.github.io/debrify/)** · **[Guides](https://varunsalian.github.io/debrify/guides/index.html)** · **[r/debrify](https://www.reddit.com/r/debrify/)** · **[Discord](https://discord.gg/xuAc4Q2c9G)** · **[Download](https://github.com/varunsalian/debrify/releases)**
+**[Website](https://debrify.tv)** · **[Guides](https://debrify.tv/guides/)** · **[r/debrify](https://www.reddit.com/r/debrify/)** · **[Discord](https://discord.gg/xuAc4Q2c9G)** · **[Download](https://github.com/varunsalian/debrify/releases)**
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 520px)" srcset="assets/hdr-also-dark-sm.svg">
