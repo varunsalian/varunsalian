@@ -77,7 +77,7 @@ def collect():
     }
 
 
-NUM = r"[\d,]+"
+NUM = r"\d[\d,]*"
 
 
 def rewrite(text, stats):
