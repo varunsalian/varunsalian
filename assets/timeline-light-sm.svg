@@ -3,7 +3,7 @@
   <line x1="30" y1="96" x2="30" y2="320" stroke="#D0D7DE" stroke-width="2"/>
   <line x1="30" y1="40" x2="30" y2="96" stroke="#1A7F37" stroke-width="2.5" stroke-linecap="round"/>
   <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace">
-        <circle cx="30" cy="40" r="5.5" fill="#1A7F37"/><text x="52" y="44" font-size="13" fill="#1A7F37">debrify</text><text x="52" y="60" font-size="10.5" fill="#3F4650">2,085 commits, alongside the day job</text><text x="384" y="44" font-size="10.5" fill="#6B727C" text-anchor="end">Aug 2025 –</text>
+        <circle cx="30" cy="40" r="5.5" fill="#1A7F37"/><text x="52" y="44" font-size="13" fill="#1A7F37">debrify</text><text x="52" y="60" font-size="10.5" fill="#3F4650">2,517 commits, alongside the day job</text><text x="384" y="44" font-size="10.5" fill="#6B727C" text-anchor="end">Aug 2025 –</text>
     <circle cx="30" cy="96" r="5.5" fill="#5B54F0"/><text x="52" y="100" font-size="13" fill="#111418">LegalZoom</text><text x="52" y="116" font-size="10.5" fill="#3F4650">SDE 3</text><text x="384" y="100" font-size="10.5" fill="#6B727C" text-anchor="end">2025 – 2026</text>
     <circle cx="30" cy="152" r="5.5" fill="#5B54F0"/><text x="52" y="156" font-size="13" fill="#111418">Opendoor</text><text x="52" y="172" font-size="10.5" fill="#3F4650">SDE 2</text><text x="384" y="156" font-size="10.5" fill="#6B727C" text-anchor="end">2024 – 2025</text>
     <circle cx="30" cy="208" r="5.5" fill="#5B54F0"/><text x="52" y="212" font-size="13" fill="#111418">Jio Platforms</text><text x="52" y="228" font-size="10.5" fill="#3F4650">SDE 2</text><text x="384" y="212" font-size="10.5" fill="#6B727C" text-anchor="end">2022 – 2023</text>
