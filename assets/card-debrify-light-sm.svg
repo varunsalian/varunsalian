@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 408" width="400" height="408" role="img" aria-label="Debrify: 488 stars, 55,022 downloads, 7 platforms, 2,517 commits, 45 releases. Android, Android TV, Windows, macOS, Linux, iOS, tvOS. Real-Debrid, Torbox, Premiumize, PikPak, AllDebrid, WebDAV, Stremio addons, Jackett or Prowlarr.">
-  <rect x="0.5" y="0.5" width="399" height="407" rx="10" fill="#F6F8FA" stroke="#D8DDE4"/>
-  <rect x="0" y="8" width="4" height="392" rx="2" fill="#5B54F0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 382" width="400" height="382" role="img" aria-label="Debrify: 488 stars, 55,022 downloads, 7 platforms, 2,517 commits, 45 releases. Android, Android TV, Windows, macOS, Linux, iOS, tvOS. Cloud storage, WebDAV, IPTV, Trakt or Simkl55,022 downloads, subtitles.">
+  <rect x="0.5" y="0.5" width="399" height="381" rx="10" fill="#F6F8FA" stroke="#D8DDE4"/>
+  <rect x="0" y="8" width="4" height="366" rx="2" fill="#5B54F0"/>
   <text x="16" y="40" font-family="Georgia,'Times New Roman',serif" font-size="23" font-weight="700" fill="#111418">Debrify</text>
   <g font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#3F4650">
-    <text x="16" y="62">All-in-one media manager for debrid</text>
-    <text x="16" y="78">accounts, WebDAV libraries and</text>
-    <text x="16" y="94">search sources.</text>
+    <text x="16" y="62">Your personal media hub — browse,</text>
+    <text x="16" y="78">stream and organize media from</text>
+    <text x="16" y="94">your own services and servers.</text>
   </g>
   <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace">
         <text x="16" y="136" font-size="22" fill="#B67B00">488★</text><text x="16" y="150" font-size="9" fill="#6B727C">STARS</text>
@@ -22,13 +22,11 @@
     <rect x="311" y="262" width="53" height="21" rx="10.5" fill="#F0F2F5" stroke="#D0D7DE"/><text x="321" y="277" fill="#3F4650">Linux</text>
     <rect x="16" y="288" width="39" height="21" rx="10.5" fill="#F0F2F5" stroke="#D0D7DE"/><text x="26" y="303" fill="#3F4650">iOS</text>
     <rect x="61" y="288" width="46" height="21" rx="10.5" fill="#F0F2F5" stroke="#D0D7DE"/><text x="71" y="303" fill="#3F4650">tvOS</text>
-    <rect x="16" y="319" width="92" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="26" y="334" fill="#5B54F0">Real-Debrid</text>
-    <rect x="114" y="319" width="59" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="124" y="334" fill="#5B54F0">Torbox</text>
-    <rect x="179" y="319" width="86" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="189" y="334" fill="#5B54F0">Premiumize</text>
-    <rect x="271" y="319" width="59" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="281" y="334" fill="#5B54F0">PikPak</text>
-    <rect x="16" y="345" width="79" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="26" y="360" fill="#5B54F0">AllDebrid</text>
-    <rect x="101" y="345" width="59" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="111" y="360" fill="#5B54F0">WebDAV</text>
-    <rect x="166" y="345" width="112" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="176" y="360" fill="#5B54F0">Stremio addons</text>
-    <rect x="16" y="371" width="138" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="26" y="386" fill="#5B54F0">Jackett / Prowlarr</text>
+    <rect x="16" y="319" width="106" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="26" y="334" fill="#5B54F0">Cloud storage</text>
+    <rect x="128" y="319" width="60" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="138" y="334" fill="#5B54F0">WebDAV</text>
+    <rect x="194" y="319" width="46" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="204" y="334" fill="#5B54F0">IPTV</text>
+    <rect x="246" y="319" width="106" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="256" y="334" fill="#5B54F0">Trakt / Simkl</text>
+    <rect x="16" y="345" width="79" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="26" y="360" fill="#5B54F0">Downloads</text>
+    <rect x="101" y="345" width="79" height="21" rx="10.5" fill="#EEEDFB" stroke="#C9C5EE"/><text x="111" y="360" fill="#5B54F0">Subtitles</text>
   </g>
 </svg>

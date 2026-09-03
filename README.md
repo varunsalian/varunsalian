@@ -24,11 +24,11 @@ Then I go home and write Flutter.
   <source media="(prefers-color-scheme: light) and (max-width: 520px)" srcset="assets/card-debrify-light-sm.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-debrify-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-debrify-light.svg">
-    <img alt="Debrify — 488 stars, 55,022 downloads, 7 platforms, 2,517 commits, 45 releases. Android, Android TV, Windows, macOS, Linux, iOS, tvOS. Real-Debrid, Torbox, Premiumize, PikPak, AllDebrid, WebDAV, Stremio addons, Jackett / Prowlarr." src="assets/card-debrify-dark.svg" width="100%">
+    <img alt="Debrify — 488 stars, 55,022 downloads, 7 platforms, 2,517 commits, 45 releases. Android, Android TV, Windows, macOS, Linux, iOS, tvOS. Cloud storage, WebDAV, IPTV, Trakt / Simkl55,022 downloads, subtitles." src="assets/card-debrify-dark.svg" width="100%">
   </picture>
 </a>
 
-It started as a way to stop juggling four debrid dashboards. It's since grown a website, a subreddit and a Discord full of people who care about the details — which has been the best part by a distance.
+It started as a way to pull my own accounts and home servers into one place, instead of a different app on every screen in the house. It's since grown a website, a subreddit and a Discord full of people who care about the details — which has been the best part by a distance.
 
 **[Website](https://debrify.tv)** · **[Guides](https://debrify.tv/guides/)** · **[r/debrify](https://www.reddit.com/r/debrify/)** · **[Discord](https://discord.gg/xuAc4Q2c9G)** · **[Download](https://github.com/varunsalian/debrify/releases)**
 
@@ -40,7 +40,7 @@ It started as a way to stop juggling four debrid dashboards. It's since grown a 
   <img alt="Also mine" src="assets/hdr-also-dark.svg" width="100%">
 </picture>
 
-**[stremio-addon-importer](https://github.com/varunsalian/stremio-addon-importer)** — a small browser extension that exports your installed Stremio addons as JSON. Handy when you're moving between setups.
+**[stremio-addon-importer](https://github.com/varunsalian/stremio-addon-importer)** — a small browser extension that exports your installed add-ons as JSON. Handy when you're moving between setups.
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 520px)" srcset="assets/hdr-work-dark-sm.svg">
