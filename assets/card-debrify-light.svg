@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Debrify: 487 stars, 55,017 downloads, 7 platforms, 2,517 commits, 45 releases. Runs on Android, Android TV, Windows, macOS, Linux, iOS and tvOS. Integrates Real-Debrid, Torbox, Premiumize, PikPak, AllDebrid, WebDAV, Stremio addons and Jackett or Prowlarr.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Debrify: 488 stars, 55,022 downloads, 7 platforms, 2,517 commits, 45 releases. Runs on Android, Android TV, Windows, macOS, Linux, iOS and tvOS. Integrates Real-Debrid, Torbox, Premiumize, PikPak, AllDebrid, WebDAV, Stremio addons and Jackett or Prowlarr.">
   <rect x="0.5" y="0.5" width="999" height="249" rx="10" fill="#F6F8FA" stroke="#D8DDE4"/>
   <rect x="0" y="8" width="4" height="234" rx="2" fill="#5B54F0"/>
   <text x="30" y="46" font-family="Georgia,'Times New Roman',serif" font-size="27" font-weight="700" fill="#111418">Debrify</text>
   <text x="30" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13.5" fill="#3F4650">All-in-one media manager for debrid accounts, WebDAV libraries and search sources.</text>
   <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace">
-    <text x="30" y="128" font-size="30" fill="#B67B00">487★</text><text x="30" y="149" font-size="11" fill="#6B727C">STARS</text>
-    <text x="190" y="128" font-size="30" fill="#1A7F37">55,017</text><text x="190" y="149" font-size="11" fill="#6B727C">DOWNLOADS</text>
+    <text x="30" y="128" font-size="30" fill="#B67B00">488★</text><text x="30" y="149" font-size="11" fill="#6B727C">STARS</text>
+    <text x="190" y="128" font-size="30" fill="#1A7F37">55,022</text><text x="190" y="149" font-size="11" fill="#6B727C">DOWNLOADS</text>
     <text x="410" y="128" font-size="30" fill="#0A5FCC">7</text><text x="410" y="149" font-size="11" fill="#6B727C">PLATFORMS</text>
     <text x="540" y="128" font-size="30" fill="#5B54F0">2,517</text><text x="540" y="149" font-size="11" fill="#6B727C">COMMITS</text>
     <text x="760" y="128" font-size="30" fill="#111418">45</text><text x="760" y="149" font-size="11" fill="#6B727C">RELEASES</text>
