@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Debrify: 492 stars, 55,472 downloads, 7 platforms, 2,517 commits, 45 releases. Runs on Android, Android TV, Windows, macOS, Linux, iOS and tvOS. Connects to cloud storage, WebDAV servers, IPTV playlists and Trakt or Simkl.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Debrify: 493 stars, 55,865 downloads, 7 platforms, 2,517 commits, 45 releases. Runs on Android, Android TV, Windows, macOS, Linux, iOS and tvOS. Connects to cloud storage, WebDAV servers, IPTV playlists and Trakt or Simkl.">
   <rect x="0.5" y="0.5" width="999" height="249" rx="10" fill="#0F141B" stroke="#21262D"/>
   <rect x="0" y="8" width="4" height="234" rx="2" fill="#5B54F0"/>
   <text x="30" y="46" font-family="Georgia,'Times New Roman',serif" font-size="27" font-weight="700" fill="#E6EDF3">Debrify</text>
   <text x="30" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13.5" fill="#8B949E">Your personal media hub — browse, stream and organize media from your own services and servers.</text>
   <g font-family="Menlo,Monaco,Consolas,'Courier New',monospace">
-    <text x="30" y="128" font-size="30" fill="#F0B72F">492★</text><text x="30" y="149" font-size="11" fill="#6E7681">STARS</text>
-    <text x="190" y="128" font-size="30" fill="#7EE787">55,472</text><text x="190" y="149" font-size="11" fill="#6E7681">DOWNLOADS</text>
+    <text x="30" y="128" font-size="30" fill="#F0B72F">493★</text><text x="30" y="149" font-size="11" fill="#6E7681">STARS</text>
+    <text x="190" y="128" font-size="30" fill="#7EE787">55,865</text><text x="190" y="149" font-size="11" fill="#6E7681">DOWNLOADS</text>
     <text x="410" y="128" font-size="30" fill="#79C0FF">7</text><text x="410" y="149" font-size="11" fill="#6E7681">PLATFORMS</text>
     <text x="540" y="128" font-size="30" fill="#9A95FF">2,517</text><text x="540" y="149" font-size="11" fill="#6E7681">COMMITS</text>
     <text x="760" y="128" font-size="30" fill="#E6EDF3">45</text><text x="760" y="149" font-size="11" fill="#6E7681">RELEASES</text>
