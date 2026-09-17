@@ -24,7 +24,7 @@ Then I go home and write Flutter.
   <source media="(prefers-color-scheme: light) and (max-width: 520px)" srcset="assets/card-debrify-light-sm.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-debrify-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-debrify-light.svg">
-    <img alt="Debrify — 518 stars, 62,089 downloads, 7 platforms, 2,789 commits, 48 releases. Android, Android TV, Windows, macOS, Linux, iOS, tvOS. Cloud storage, WebDAV, IPTV, Trakt / Simkl, downloads, subtitles." src="assets/card-debrify-dark.svg" width="100%">
+    <img alt="Debrify — 518 stars, 62,266 downloads, 7 platforms, 2,789 commits, 48 releases. Android, Android TV, Windows, macOS, Linux, iOS, tvOS. Cloud storage, WebDAV, IPTV, Trakt / Simkl, downloads, subtitles." src="assets/card-debrify-dark.svg" width="100%">
   </picture>
 </a>
 
